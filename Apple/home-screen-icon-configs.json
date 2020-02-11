@@ -1,0 +1,82 @@
+{
+  "ipad-pro-11-vertical": {
+    "name": "iPad Pro 11 Vertical",
+    "rows": 6,
+    "columns": 5,
+    "outerGapX": 176,
+    "innerGapX": 278,
+    "outerGapY": 128,
+    "innerGapY": 158,
+    "iconSize": 120
+  },
+  "ipad-pro-10.5-landscape": {
+    "name": "iPad Pro 10.5 Landscape",
+    "rows": 4,
+    "columns": 5,
+    "outerGapX": 176,
+    "innerGapX": 278,
+    "outerGapY": 128,
+    "innerGapY": 158,
+    "iconSize": 152
+  },
+  "iphone-5": {
+    "name": "iPhone 5 / 5S / 5C / SE",
+    "rows": 5,
+    "columns": 4,
+    "outerGapX": 32,
+    "innerGapX": 32,
+    "outerGapY": 50,
+    "innerGapY": 56,
+    "iconSize": 120
+  },
+  "iphone-7": {
+    "name": "iPhone 6 / 6S / 7 / 8",
+    "rows": 6,
+    "columns": 4,
+    "outerGapX": 54,
+    "innerGapX": 54,
+    "outerGapY": 56,
+    "innerGapY": 56,
+    "iconSize": 120
+  },
+  "iphone-7-plus": {
+    "name": "iPhone 6 Plus / 6S Plus / 7 Plus / 8 Plus",
+    "rows": 6,
+    "columns": 4,
+    "outerGapX": 105,
+    "innerGapX": 104,
+    "outerGapY": 114,
+    "innerGapY": 120,
+    "iconSize": 180
+  },
+  "iphone-x": {
+    "name": "iPhone X / XS",
+    "rows": 6,
+    "columns": 4,
+    "outerGapX": 81,
+    "innerGapX": 81,
+    "outerGapY": 216,
+    "innerGapY": 126,
+    "iconSize": 180
+  },
+  "iphone-xs-max": {
+    "name": "iPhone XS Max",
+    "rows": 6,
+    "columns": 4,
+    "outerGapX": 96,
+    "innerGapX": 94,
+    "outerGapY": 234,
+    "innerGapY": 145,
+    "iconSize": 192
+  },
+  "iphone-xr": {
+    "name": "iPhone XR",
+    "rows": 6,
+    "columns": 4,
+    "outerGapX": 64,
+    "innerGapX": 63,
+    "outerGapY": 156,
+    "innerGapY": 97,
+    "iconSize": 128
+  },
+}

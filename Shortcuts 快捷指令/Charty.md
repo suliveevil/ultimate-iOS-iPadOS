@@ -1,3 +1,3 @@
-# iSH
+# Charty
 
 TestFlight app
