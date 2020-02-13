@@ -1,0 +1,35 @@
+digraph "apkindex" {
+  rankdir=LR;
+  node [shape=box];
+  "libbz2-1.0.6-r7" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "python3-3.7.5-r1" -> "libbz2-1.0.6-r7"[arrowhead=inv,label="so:libbz2.so.1",];
+  "python3-3.7.5-r1" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "libcrypto1.1-1.1.1d-r2" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "python3-3.7.5-r1" -> "libcrypto1.1-1.1.1d-r2"[arrowhead=inv,label="so:libcrypto.so.1.1",];
+  "expat-2.2.8-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "python3-3.7.5-r1" -> "expat-2.2.8-r0"[arrowhead=inv,label="so:libexpat.so.1",];
+  "libffi-3.2.1-r6" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "python3-3.7.5-r1" -> "libffi-3.2.1-r6"[arrowhead=inv,label="so:libffi.so.6",];
+  "gdbm-1.13-r1" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "python3-3.7.5-r1" -> "gdbm-1.13-r1"[arrowhead=inv,label="so:libgdbm.so.4",];
+  "python3-3.7.5-r1" -> "gdbm-1.13-r1"[arrowhead=inv,label="so:libgdbm_compat.so.4",];
+  "xz-libs-5.2.4-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "python3-3.7.5-r1" -> "xz-libs-5.2.4-r0"[arrowhead=inv,label="so:liblzma.so.5",];
+  "ncurses-libs-6.1_p20190518-r0" -> "ncurses-terminfo-base-6.1_p20190518-r0"[];
+  "ncurses-terminfo-6.1_p20190518-r0" -> "ncurses-terminfo-base-6.1_p20190518-r0"[];
+  "ncurses-terminfo-6.1_p20190518-r0" -> "ncurses-terminfo-base-6.1_p20190518-r0"[];
+  "ncurses-libs-6.1_p20190518-r0" -> "ncurses-terminfo-6.1_p20190518-r0"[];
+  "ncurses-libs-6.1_p20190518-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "python3-3.7.5-r1" -> "ncurses-libs-6.1_p20190518-r0"[arrowhead=inv,label="so:libncursesw.so.6",];
+  "python3-3.7.5-r1" -> "ncurses-libs-6.1_p20190518-r0"[arrowhead=inv,label="so:libpanelw.so.6",];
+  "readline-8.0.0-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "readline-8.0.0-r0" -> "ncurses-libs-6.1_p20190518-r0"[arrowhead=inv,label="so:libncursesw.so.6",];
+  "python3-3.7.5-r1" -> "readline-8.0.0-r0"[arrowhead=inv,label="so:libreadline.so.8",];
+  "sqlite-libs-3.28.0-r2" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "python3-3.7.5-r1" -> "sqlite-libs-3.28.0-r2"[arrowhead=inv,label="so:libsqlite3.so.0",];
+  "libssl1.1-1.1.1d-r2" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "libssl1.1-1.1.1d-r2" -> "libcrypto1.1-1.1.1d-r2"[arrowhead=inv,label="so:libcrypto.so.1.1",];
+  "python3-3.7.5-r1" -> "libssl1.1-1.1.1d-r2"[arrowhead=inv,label="so:libssl.so.1.1",];
+  "zlib-1.2.11-r1" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "python3-3.7.5-r1" -> "zlib-1.2.11-r1"[arrowhead=inv,label="so:libz.so.1",];
+}

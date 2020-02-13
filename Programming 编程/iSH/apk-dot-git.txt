@@ -1,0 +1,26 @@
+digraph "apkindex" {
+  rankdir=LR;
+  node [shape=box];
+  "git-2.22.2-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "busybox-1.30.1-r3" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "ca-certificates-20190108-r0" -> "busybox-1.30.1-r3"[arrowhead=inv,label="/bin/sh",];
+  "ca-certificates-20190108-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "libcrypto1.1-1.1.1d-r2" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "ca-certificates-20190108-r0" -> "libcrypto1.1-1.1.1d-r2"[arrowhead=inv,label="so:libcrypto.so.1.1",];
+  "libcurl-7.66.0-r0" -> "ca-certificates-20190108-r0"[];
+  "libcurl-7.66.0-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "libcurl-7.66.0-r0" -> "libcrypto1.1-1.1.1d-r2"[arrowhead=inv,label="so:libcrypto.so.1.1",];
+  "nghttp2-libs-1.39.2-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "libcurl-7.66.0-r0" -> "nghttp2-libs-1.39.2-r0"[arrowhead=inv,label="so:libnghttp2.so.14",];
+  "libssl1.1-1.1.1d-r2" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "libssl1.1-1.1.1d-r2" -> "libcrypto1.1-1.1.1d-r2"[arrowhead=inv,label="so:libcrypto.so.1.1",];
+  "libcurl-7.66.0-r0" -> "libssl1.1-1.1.1d-r2"[arrowhead=inv,label="so:libssl.so.1.1",];
+  "zlib-1.2.11-r1" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "libcurl-7.66.0-r0" -> "zlib-1.2.11-r1"[arrowhead=inv,label="so:libz.so.1",];
+  "git-2.22.2-r0" -> "libcurl-7.66.0-r0"[arrowhead=inv,label="so:libcurl.so.4",];
+  "expat-2.2.8-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "git-2.22.2-r0" -> "expat-2.2.8-r0"[arrowhead=inv,label="so:libexpat.so.1",];
+  "pcre2-10.33-r0" -> "musl-1.1.22-r3"[arrowhead=inv,label="so:libc.musl-x86.so.1",];
+  "git-2.22.2-r0" -> "pcre2-10.33-r0"[arrowhead=inv,label="so:libpcre2-8.so.0",];
+  "git-2.22.2-r0" -> "zlib-1.2.11-r1"[arrowhead=inv,label="so:libz.so.1",];
+}
