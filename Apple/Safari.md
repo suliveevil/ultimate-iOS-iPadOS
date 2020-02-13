@@ -1,0 +1,25 @@
+# Safari
+
+## 快捷键
+
+Use default font size in Reader (Cmd + 0)
+Open link in background (Cmd + tap)
+Toggle downloads (Cmd + Alt)
+Open link in new window (Cmd + Alt + tap)
+Use selection for Find (Cmd + E)
+Email this page (Cmd + I)
+Open link in new tab (Cmd + Shift + tap)
+Decrease Reader text size (Cmd + -)
+Zoom in (Cmd + +)
+Zoom out (Cmd + -)
+Save webpage (Cmd + S)
+Change focused element (Alt + tab)
+Focus Smart Search field (Cmd + Alt + F)
+Dismiss web view in app (Cmd + W)
+Increase Reader text size (Cmd + +)
+Download linked file (Alt + tap)
+Add link to Reading List (Shift + tap)
+Close other tabs (Cmd + Alt + W)
+Scroll around screen (arrow keys)
+Paste without formatting (Cmd + Shift + Alt + V)
+New Private tab (Cmd + Shift + N)
