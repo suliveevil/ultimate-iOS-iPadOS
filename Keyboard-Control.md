@@ -1,10 +1,12 @@
-# 键盘快捷键（系统级）
+# Keyboard Control 键盘控制
+
 
 长按 CMD：显示可用的快捷键
 
 切换应用 cmd T
-复制 cmd C
-粘贴 cmd V
+
+Copy 复制：cmd C
+Paste 粘贴：cmd V
 切换输入法 tab space
 回到主屏幕（隐藏当前 App 窗口） cmd H
 快速搜索 cmd space
@@ -13,7 +15,7 @@
 显示扩展坞 cmd option D
 
 
-## 编辑：
+## Edit 编辑：
 进入/退出编辑：cmd + return（enter）
 关闭标签页：cmd + tab
 选中全部：cmd + A
@@ -22,7 +24,7 @@
 重做：cmd + shift + Z
 结束编辑：cmd + return（enter）
 
-## 移动光标：
+## Move Cursor 移动光标：
 向前（右）移动一个光标：ctrl + F（forward）
 向后移动一个光标：ctrl + B（backward）
 上移一行：ctrl + P（previous）
@@ -30,30 +32,34 @@
 移动到行首：ctrl + A（ahead）
 移动到行尾：ctrl + E（end）
 
-### 增
+### Add 增
 粘贴：cmd + V
 在后面插入空行（换行符）： ctrl + O
 
-### 删
+### Delete 删
 删除左边的字词：ctrl + H
 删除右边的字词：ctrl + D
 删除后面到行尾所有字符：ctrl + K
 删除当前行：ctrl + A，ctrl + K
 
 
-### 改
+### Update 改
 粗体：cmd + B
 斜体：cmd + I
 下划线：cmd + U
 交换字符：ctrl + T
 
-### 查
+### Read/Find 查
 搜索：cmd + F
 
 
 
+## 支持全键盘操作的 Apps
+
+### 备忘录
 
 
+### Things
 
 
-
+### Twitterific
