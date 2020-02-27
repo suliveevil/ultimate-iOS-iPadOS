@@ -1,22 +1,20 @@
-# Ultimate iOS & iPadOS
+# Ultimate iOS & iPadOS [中文](https://github.com/suliveevil/ultimate-iOS-iPadOS/blob/master/README-CN.md)
 
-终极 iOS & iPadOS 使用指南
 
 Based on iPadOS 13
 
-基于iPadOS 13
 
-## Introduction 简介
+## Introduction
 
-## Getting Started 快速上手 iPadOS
+## Getting Started
 
 ## Basics
 
 ### System Setting
 
-### apps recommend 推荐 app
+### apps recommended
 
-## Advanced 进阶篇
+## Advanced
 
 ### Shortcuts
 
