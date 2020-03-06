@@ -1,0 +1,17 @@
+Package           Version  
+----------------- ---------
+autopep8          1.5      
+colorama          0.4.3    
+decorator         4.4.1    
+isort             4.3.21   
+lazy-object-proxy 1.4.3    
+mccabe            0.6.1    
+pip               20.0.2   
+pycodestyle       2.5.0    
+setuptools        41.2.0   
+six               1.14.0   
+termcolor         1.1.0    
+tldr              0.5      
+wrapt             1.11.2   
+you-get           0.4.1403 
+youtube-dl        2020.2.16
