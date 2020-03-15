@@ -23,3 +23,67 @@ Close other tabs (Cmd + Alt + W)
 Scroll around screen (arrow keys)
 Paste without formatting (Cmd + Shift + Alt + V)
 New Private tab (Cmd + Shift + N)
+
+## 搜索
+
+### 搜索引擎
+
+### 搜索引擎建议
+
+### Safari 建议
+
+### 网站快速搜索
+
+### 预载入最常点选
+
+## 通用
+
+
+
+
+
+
+
+
+
+
+## 标签页
+
+
+
+
+
+
+
+## 隐私与安全性
+
+
+
+
+## 网站设置
+
+
+
+
+
+## 阅读列表
+
+
+
+
+
+
+## 高级
+
+### 网站数据
+
+### JavaScript
+
+
+### 网页检查器
+
+
+### 远程自动化
+
+### Experimental Features
+
