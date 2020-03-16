@@ -15,3 +15,7 @@ cmd mode/cancel esc
 符号 cmd G
 预览 cmd P
 minishell cmd 0
+
+## 参考
+
+https://gocoedit.app/docs/external_keyboard
