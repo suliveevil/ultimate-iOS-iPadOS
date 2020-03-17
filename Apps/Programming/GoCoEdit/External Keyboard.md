@@ -1,6 +1,4 @@
-# GoCoEdit
-
-## 快捷键
+# GoCoEdit 键盘快捷键
 
 快速文件搜索 cmd O
 cmd mode/cancel
