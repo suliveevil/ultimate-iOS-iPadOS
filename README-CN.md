@@ -26,6 +26,15 @@ iSH
 
 ## 常见问题
 
+## 其他
+
+Apple 产品四代出神机:
+iPhone 4
+iPad mini 4
+Apple Watch 4
+iPad Pro 11/12.9（2018）：额
+iPad Pro 2020:第四代 iPad Pro 增加激光雷达
+
 ## 附录
 
 
