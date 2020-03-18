@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/private/var/mobile/Containers/Data/Application/E64104BF-F51E-4E39-A951-2B2D15E3197C/Documents/.vim/autoload'
+let g:netrw_dirhist_8='/private/var/mobile/Containers/Data/Application/E64104BF-F51E-4E39-A951-2B2D15E3197C/Documents/.vim'
+let g:netrw_dirhist_7='/private/var/mobile/Containers/Data/Application/E64104BF-F51E-4E39-A951-2B2D15E3197C/Documents'
+let g:netrw_dirhist_6='/private/var/mobile/Containers/Data/Application/E64104BF-F51E-4E39-A951-2B2D15E3197C/Documents/.vim'
+let g:netrw_dirhist_5='/private/var/mobile/Containers/Data/Application/E64104BF-F51E-4E39-A951-2B2D15E3197C/Documents'
+let g:netrw_dirhist_4='/private/var/mobile/Containers/Data/Application/E64104BF-F51E-4E39-A951-2B2D15E3197C/Documents/.vim'
+let g:netrw_dirhist_3='/private/var/mobile/Containers/Data/Application/E64104BF-F51E-4E39-A951-2B2D15E3197C/Documents'
+let g:netrw_dirhist_2='/private/var/mobile/Containers/Data/Application/E64104BF-F51E-4E39-A951-2B2D15E3197C/Documents/.vim'
+let g:netrw_dirhist_1='/private/var/mobile/Containers/Data/Application/E64104BF-F51E-4E39-A951-2B2D15E3197C/Documents'
