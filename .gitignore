@@ -6,4 +6,4 @@
 *.DS_Store
 
 # VS Code - local history
-*/.history*
+*.history/*
