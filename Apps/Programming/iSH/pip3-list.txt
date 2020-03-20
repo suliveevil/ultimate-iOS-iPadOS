@@ -11,4 +11,4 @@ six        1.14.0
 termcolor  1.1.0              
 tldr       0.5                
 you-get    0.4.1355           
-youtube-dl 2019.11.28         
+youtube-dl 2020.3.8           
