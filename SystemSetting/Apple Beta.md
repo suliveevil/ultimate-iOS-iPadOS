@@ -1,9 +1,17 @@
 # Apple Beta
 
+## normal release
+
+iPadOS 13.4（17E255）
+
 
 ## Developer Beta
 
 ## Public Beta
+
+iPadOS 13.4 GM（17E255）
+
+
 
 ## Golden Master（最终测试版）
 
