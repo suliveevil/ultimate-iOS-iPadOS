@@ -24,3 +24,20 @@ iThoughts (Mac) has had over 80 free updates.
 iThoughts (Windows) has already had over 30 free updates.
 
 
+## issues 问题
+
+### closed 已处理
+
+### open 待处理
+
+弹窗不显示的问题-已反馈给官方
+
+
+
+
+
+
+
+
+
+
