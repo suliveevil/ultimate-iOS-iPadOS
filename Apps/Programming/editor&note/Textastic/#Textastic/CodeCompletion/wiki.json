@@ -9,7 +9,7 @@
 				"statschart",
 				{"string": "ref", "append": " name=\"${1:name}\"/>$0"},
 				{"string": "references", "append": ">\n$0\n</references>\n"},
-				{"string": "summary", "append": " show=\"${1:true}\">${2}</summary> $0"},
+				{"string": "summary", "append": " show=\"${1:true}\">${2}</summary> $0"}
 			]
 		},
 		{
@@ -124,7 +124,7 @@
 				{"string": ":Category:Service", "append": "|Service]] $0"},
 				{"string": ":Category:Tech", "append": "|Tech]] $0"},
 				{"string": ":Category:Toys", "append": "|Toys]] $0"},
-				{"string": ":Category:Utility", "append": "|Utility]] $0"},
+				{"string": ":Category:Utility", "append": "|Utility]] $0"}
 			]
 		},
 		{
@@ -170,7 +170,7 @@
 				"Category:Service",
 				"Category:Tech",
 				"Category:Toys",
-				"Category:Utility",
+				"Category:Utility"
 			]
 		},
 		{
@@ -204,7 +204,7 @@
 				"start",
 				"style",
 				"title",
-				"type",
+				"type"
 			]
 		},
 		{
@@ -312,7 +312,7 @@
 			"pattern": "<([a-zA-Z0-9]*)(?:\\s+[a-zA-Z0-9-:_]+\\s*=\\s*(?:'.*'|\".*\"))*(?:(?:\\s([a-zA-Z0-9-]+))|\\s)",
 			"completionCaptureIndex": 2,
 			"completionSetNames": [
-				"sfs.$1.attr",
+				"sfs.$1.attr"
 			]
 		},
 		{
