@@ -1,3 +1,0 @@
-# iSH
-
-TestFlight app

@@ -1,3 +1,0 @@
-# vim
-
-<kbd>Ctrl</kbd>
