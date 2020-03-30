@@ -32,7 +32,7 @@
         {
             "description":"markdown code",
             "scope":"text.html.markdown",
-            "pattern":"(?:(cod))[a-zA-Z]*",
+            "pattern":"(cod[a-zA-Z]*)",
             "completionCaptureIndex": 1,
             "completionSetNames": [
                 "markdown.code"
@@ -41,7 +41,7 @@
         {
             "description":"markdown diagram",
             "scope":"text.html.markdown",
-            "pattern":"(?:(dot))[a-zA-Z]*",
+            "pattern":"(dot[a-zA-Z]*)",
             "completionCaptureIndex": 1,
             "completionSetNames": [
                 "markdown.diagram"
@@ -50,7 +50,7 @@
         {
             "description":"markdown diagram",
             "scope":"text.html.markdown",
-            "pattern":"(?:(graph))[a-zA-Z]*",
+            "pattern":"(graph[a-zA-Z]*)",
             "completionCaptureIndex": 1,
             "completionSetNames": [
                 "markdown.diagram"
