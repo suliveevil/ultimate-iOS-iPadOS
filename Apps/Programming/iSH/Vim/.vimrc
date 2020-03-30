@@ -98,7 +98,7 @@ let &t_EI.="\e[1 q" "EI = NORMAL mode (ELSE)
 "let &t_SR = "\<Esc>]50;CursorShape=2\x7"
 "let &t_EI = "\<Esc>]50;CursorShape=0\x7"
 
-"dein
+"插件管理器 dein
 
 if &compatible
   set nocompatible
@@ -123,7 +123,7 @@ endif
 filetype plugin indent on
 syntax enable
 
-"vim-plug
+"插件管理器 vim-plug
 
 call plug#begin('~/.vim/plugged')
 
