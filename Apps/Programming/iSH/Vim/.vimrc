@@ -21,7 +21,7 @@ set autoindent
 set smartindent
 set smarttab
 set tabstop=4
-set softtabstop=4
+set softtabstop=0
 set expandtab
 
 "syntax
@@ -36,6 +36,11 @@ set signcolumn=yes
 set showtabline=2
 set scrolloff=7
 set number
+augroup relative_numbers
+        autocmd!
+        autocmd InsertEnter * :set norelativenumber
+        autocmd InsertLeave * :set relativenumber
+augroup END
 set cursorcolumn
 set cursorline
 set colorcolumn=80
@@ -59,7 +64,8 @@ set smartcase
 
 "keymap
 map <space> /
-nnoremap ; :
+"iPadOS 不需要设置 ; 替换 :
+"nnoremap ; :
 noremap H ^
 noremap L $
 inoremap jk <Esc>
@@ -92,7 +98,7 @@ let &t_EI.="\e[1 q" "EI = NORMAL mode (ELSE)
 "let &t_SR = "\<Esc>]50;CursorShape=2\x7"
 "let &t_EI = "\<Esc>]50;CursorShape=0\x7"
 
-"插件管理器 dein
+"dein
 
 if &compatible
   set nocompatible
@@ -117,7 +123,7 @@ endif
 filetype plugin indent on
 syntax enable
 
-"插件管理器 vim-plug
+"vim-plug
 
 call plug#begin('~/.vim/plugged')
 
