@@ -9,7 +9,7 @@
             "strings":[
                 {
                     "string": "tsnippet",
-                    "replace": "{\n\t\"name\": \"${1:enviroment}.${2:situation}\",\n\t\"defaultAppend\":\"${3}\",\n\t\"strings\":[\n\t\t{\n\t\t\t\"string\":\"${4:string2match}\",\n\t\t\t\"replace\":\"${5:snippet}\"\n\t\t}\n\t]\n}"
+                    "replace": "{\n\t\"name\": \"${1:enviroment}.${2:situation}\",\n\t\"defaultAppend\":\"${3}\",\n\t\"strings\":[\n\t\t{\n\t\t\t\"string\":\"${4:string2match}\",\n\t\t\t\"${5:replace}\":\"${6:snippet}\"\n\t\t}\n\t]\n}"
                 }
             ]
         },
