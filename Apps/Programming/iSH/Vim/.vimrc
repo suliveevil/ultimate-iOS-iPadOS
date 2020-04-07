@@ -128,9 +128,13 @@ syntax enable
 call plug#begin('~/.vim/plugged')
 
 Plug 'SirVer/ultisnips'
+    let g:UltiSnipsExpandTrigger = '<tab>'
+    let g:UltiSnipsJumpForwardTrigger = '<tab>'
+    let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 Plug 'plasticboy/vim-markdown'
 Plug 'jceb/vim-orgmode'
 Plug 'honza/vim-snippets'
+Plug 'skywind3000/vim-quickui'
 
 call plug#end()
 
