@@ -32,6 +32,7 @@ iThoughts (Windows) has already had over 30 free updates.
 
 弹窗不显示的问题-已反馈给官方
 
+真是 tmd 简直了，反馈了三四次，更新了好几版，从 iPadOS  13.4 Public Beta 到 iPadOS 13.4.1，就是 tmd 不解决这个 bug，艹了！
 
 
 
