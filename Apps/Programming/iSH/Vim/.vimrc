@@ -134,7 +134,6 @@ Plug 'SirVer/ultisnips'
 Plug 'plasticboy/vim-markdown'
 Plug 'jceb/vim-orgmode'
 Plug 'honza/vim-snippets'
-Plug 'skywind3000/vim-quickui'
 
 call plug#end()
 
