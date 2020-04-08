@@ -28,11 +28,16 @@ iThoughts (Windows) has already had over 30 free updates.
 
 ### closed 已处理
 
+#### 弹出菜单 popup menu
+
+别人家没毛病，到你这儿就跟系统冲突了，行行行，你nb，我把 FKA 关了行了吧！
+
+> Full Keyboard Access is not supported in iThoughts (and there are no plans to add support.)
+
+> The app is simply not designed to be controlled entirely by the keyboard. Having Full Keyboard Access enabled breaks many aspects of the app - not only the popup menu.
+
 ### open 待处理
 
-弹窗不显示的问题-已反馈给官方
-
-真是 tmd 简直了，反馈了三四次，更新了好几版，从 iPadOS  13.4 Public Beta 到 iPadOS 13.4.1，就是 tmd 不解决这个 bug，艹了！
 
 
 
