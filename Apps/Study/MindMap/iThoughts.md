@@ -33,7 +33,7 @@ iThoughts (Windows) has already had over 30 free updates.
 别人家没毛病，到你这儿就跟系统冲突了，行行行，你nb，我把 FKA 关了行了吧！
 
 > Full Keyboard Access is not supported in iThoughts (and there are no plans to add support.)
-
+> 
 > The app is simply not designed to be controlled entirely by the keyboard. Having Full Keyboard Access enabled breaks many aspects of the app - not only the popup menu.
 
 ### open 待处理
