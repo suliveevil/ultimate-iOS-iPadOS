@@ -16,12 +16,14 @@ filetype indent on
 set autoread
 set history=1024
 
-"缩进与 Tab
+"缩进:Tab 与空格
 set autoindent
 set smartindent
 set smarttab
 set tabstop=4
-set softtabstop=0
+set softtabstop=4
+set shiftwidth=4
+"只用空格，不使用Tab
 set expandtab
 
 "syntax
