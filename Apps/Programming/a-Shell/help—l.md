@@ -19,8 +19,7 @@ cat
 cd
 chardetect
 checkcites
-ch
-eckpip.py
+checkpip.py
 checkpyc.py
 chflags
 chksum
@@ -53,8 +52,7 @@ dig
 du
 dutree.doc
 dutree.py
-dvilualat
-ex
+dvilualatex
 dviluatex
 easy_install
 easy_install-3.7
@@ -73,8 +71,7 @@ f2py3
 f2py3.7
 fgrep
 find
-fi
-nd-uname.py
+find-uname.py
 find_recursionlimit.py
 finddiv.py
 findlinksto.py
@@ -85,8 +82,7 @@ fixheader.py
 fixnotice.py
 fixps.py
 flit
-gene
-rate_opcode_h.py
+generate_opcode_h.py
 get-remote-certificate.py
 getmapdl
 getopt.tlu
@@ -99,8 +95,7 @@ h2py.py
 head
 help
 highlight.py
-hist
-ory
+history
 host
 hotshotmain.py
 idle3
@@ -115,8 +110,7 @@ jadetex
 jsonschema
 jump
 l3build
-lat
-ex
+latex
 lex
 lfcr.py
 link
@@ -134,8 +128,7 @@ luaotfload-tool
 luatex
 lwarpmk
 mailerdaemon.py
-m
-ake_ctype.py
+make_ctype.py
 makeglossaries-lite
 md5
 md5sum.py
@@ -151,8 +144,7 @@ newWindow
 nm
 nm2def.py
 nslookup
-objgraph
-.py
+objgraph.py
 open
 openurl
 opt
@@ -165,8 +157,7 @@ pbpaste
 pdeps.py
 pdfcslatex
 pdfcsplain
-pdfete
-x
+pdfetex
 pdfjadetex
 pdflatex
 pdfmex
@@ -183,8 +174,7 @@ pip3.5
 pip3.6
 pip3.7
 printenv
-pt
-ags.py
+ptags.py
 pwd
 py.test
 pydoc
@@ -199,8 +189,7 @@ pythonA
 pyvenv
 readlink
 reindent-rst.py
-reinden
-t.py
+reindent.py
 renamemark
 rgrep.py
 rlogin
@@ -213,8 +202,7 @@ rst2latex.py
 rst2man.py
 rst2odt.py
 rst2odt_prepstyles.py
-rst
-2pseudoxml.py
+rst2pseudoxml.py
 rst2s5.py
 rst2xetex.py
 rst2xml.py
@@ -230,8 +218,7 @@ sftp
 sh
 showmarks
 sort
-spl
-itindex
+splitindex
 splitindex_main.tlu
 ssh
 ssh-keygen
@@ -248,8 +235,7 @@ tex
 texconf.tlu
 texi2html.py
 texlua
-texl
-uac
+texluac
 texsis
 touch
 tr
@@ -267,8 +253,7 @@ vim
 wasm
 wc
 which.py
-w
-hoami
+whoami
 whois
 win_add2path.py
 xargs
