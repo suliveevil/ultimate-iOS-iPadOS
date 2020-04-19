@@ -1,3 +1,7 @@
+# a-Shell default CLI tools
+
+
+```shell
 2to3
 a5toa4
 abitype.py
@@ -15,7 +19,8 @@ cat
 cd
 chardetect
 checkcites
-checkpip.py
+ch
+eckpip.py
 checkpyc.py
 chflags
 chksum
@@ -29,7 +34,8 @@ clxelatex
 combinerefs.py
 compress
 copytime.py
-cp
+c
+p
 credits
 crlf.py
 cslatex
@@ -47,7 +53,8 @@ dig
 du
 dutree.doc
 dutree.py
-dvilualatex
+dvilualat
+ex
 dviluatex
 easy_install
 easy_install-3.7
@@ -66,7 +73,8 @@ f2py3
 f2py3.7
 fgrep
 find
-find-uname.py
+fi
+nd-uname.py
 find_recursionlimit.py
 finddiv.py
 findlinksto.py
@@ -77,7 +85,8 @@ fixheader.py
 fixnotice.py
 fixps.py
 flit
-generate_opcode_h.py
+gene
+rate_opcode_h.py
 get-remote-certificate.py
 getmapdl
 getopt.tlu
@@ -90,7 +99,8 @@ h2py.py
 head
 help
 highlight.py
-history
+hist
+ory
 host
 hotshotmain.py
 idle3
@@ -105,7 +115,8 @@ jadetex
 jsonschema
 jump
 l3build
-latex
+lat
+ex
 lex
 lfcr.py
 link
@@ -123,7 +134,8 @@ luaotfload-tool
 luatex
 lwarpmk
 mailerdaemon.py
-make_ctype.py
+m
+ake_ctype.py
 makeglossaries-lite
 md5
 md5sum.py
@@ -139,7 +151,8 @@ newWindow
 nm
 nm2def.py
 nslookup
-objgraph.py
+objgraph
+.py
 open
 openurl
 opt
@@ -152,7 +165,8 @@ pbpaste
 pdeps.py
 pdfcslatex
 pdfcsplain
-pdfetex
+pdfete
+x
 pdfjadetex
 pdflatex
 pdfmex
@@ -169,7 +183,8 @@ pip3.5
 pip3.6
 pip3.7
 printenv
-ptags.py
+pt
+ags.py
 pwd
 py.test
 pydoc
@@ -184,7 +199,8 @@ pythonA
 pyvenv
 readlink
 reindent-rst.py
-reindent.py
+reinden
+t.py
 renamemark
 rgrep.py
 rlogin
@@ -197,7 +213,8 @@ rst2latex.py
 rst2man.py
 rst2odt.py
 rst2odt_prepstyles.py
-rst2pseudoxml.py
+rst
+2pseudoxml.py
 rst2s5.py
 rst2xetex.py
 rst2xml.py
@@ -213,7 +230,8 @@ sftp
 sh
 showmarks
 sort
-splitindex
+spl
+itindex
 splitindex_main.tlu
 ssh
 ssh-keygen
@@ -230,7 +248,8 @@ tex
 texconf.tlu
 texi2html.py
 texlua
-texluac
+texl
+uac
 texsis
 touch
 tr
@@ -248,11 +267,14 @@ vim
 wasm
 wc
 which.py
-whoami
+w
+hoami
 whois
 win_add2path.py
 xargs
 xindex
 xmltex
-you-get
-youtube-dl
+
+
+```
+
