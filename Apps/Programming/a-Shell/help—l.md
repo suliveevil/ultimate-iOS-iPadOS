@@ -7,6 +7,7 @@ a5toa4
 abitype.py
 amstex
 analyze_dxp.py
+ar
 awk
 bc
 bibtex
@@ -33,6 +34,7 @@ clxelatex
 combinerefs.py
 compress
 copytime.py
+cowsay.wasm
 cp
 credits
 crlf.py
@@ -192,6 +194,7 @@ python
 python3
 pythonA
 pyvenv
+ranlib
 readlink
 reindent-rst.py
 reindent.py
@@ -265,7 +268,4 @@ win_add2path.py
 xargs
 xindex
 xmltex
-
-
 ```
-
