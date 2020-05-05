@@ -3,9 +3,6 @@
 完整的 Linux
 
 ```shell
-# 安装 Vim Python2 Python3 后：
-2to3
-2to3-3.8
 [
 [[
 acpid
@@ -67,14 +64,12 @@ dos2unix
 du
 dumpkmap
 dumpleases
-easy_install-3.8
 echo
 ed
 egrep
 eject
 env
 ether-wake
-ex
 expand
 expr
 factor
@@ -96,9 +91,6 @@ fsck
 fstrim
 fsync
 fuser
-gdbm_dump
-gdbm_load
-gdbmtool
 getconf
 getent
 getopt
@@ -117,7 +109,6 @@ hostname
 hwclock
 iconv
 id
-idle
 ifconfig
 ifdown
 ifenslave
@@ -211,8 +202,6 @@ pgrep
 pidof
 ping
 ping6
-pip3
-pip3.8
 pipe_progress
 pkill
 pmap
@@ -225,14 +214,6 @@ pscan
 pstree
 pwd
 pwdx
-pydoc
-pydoc3
-pydoc3.8
-python
-python2
-python2.7
-python3
-python3.8
 raidautorun
 rdate
 rdev
@@ -253,8 +234,6 @@ rmdir
 rmmod
 route
 run-parts
-rview
-rvim
 scanelf
 sed
 sendmail
@@ -277,7 +256,6 @@ shuf
 slattach
 sleep
 smemcap
-smtpd.py
 sort
 split
 ssl_client
@@ -328,9 +306,6 @@ uudecode
 uuencode
 vconfig
 vi
-view
-vim
-vimtutor
 vlock
 volname
 watch
@@ -341,7 +316,6 @@ which
 whoami
 whois
 xargs
-xmlwf
 xxd
 xz
 xzcat
