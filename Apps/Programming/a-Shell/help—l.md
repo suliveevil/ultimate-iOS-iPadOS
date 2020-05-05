@@ -247,6 +247,7 @@ texluac
 texsis
 touch
 tr
+tree.wasm
 treesync.py
 uname
 uncompress
