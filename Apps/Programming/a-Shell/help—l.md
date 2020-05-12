@@ -13,8 +13,8 @@ bc
 bibtex
 bookmark
 byext.py
-byteyears.py
-cachepic
+byteyears.pyc
+achepic
 calc
 cat
 cd
@@ -40,6 +40,7 @@ credits
 crlf.py
 cslatex
 csplain
+ctags.wasm
 curl
 date
 db2pickle.py
@@ -70,6 +71,7 @@ f2py
 f2py3
 f2py3.7
 fgrep
+file.wasm
 find
 find-uname.py
 find_recursionlimit.py
@@ -184,6 +186,7 @@ printenv
 ptags.py
 pwd
 py.test
+pycodestyle
 pydoc
 pydoc3
 pydocgui.pyw
@@ -196,6 +199,8 @@ pythonA
 pyvenv
 ranlib
 readlink
+readtag
+s.wasm
 reindent-rst.py
 reindent.py
 renamemark
